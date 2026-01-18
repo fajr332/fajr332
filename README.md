@@ -17,7 +17,7 @@
 
 🌱 Cybersecurity student interested in **web security, threat analysis, and defensive security**  
 🎓 Learning about **network security, secure systems, and ethical hacking basics**  
-🛡️ Building small projects to understand how attacks work — and how to stop them  
+🛡️ Building small projects to understand how attacks work  
 📚 Always curious, always learning  
 
 </div>
