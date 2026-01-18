@@ -7,6 +7,25 @@
   <h1> Fajr Almugri | فجر المقري 🔐</h1>
   <h3>Cybersecurity Student | Passionate about Digital Defense</h3>
 
+  <!-- Contact & Profiles -->
+  <p>
+    <a href="https://github.com/your-username" title="GitHub Projects">
+      <img src="https://img.icons8.com/ios-filled/50/000000/github.png" height="30"/>
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/fajr-almugri-b5789734a" title="LinkedIn">
+      <img src="https://img.icons8.com/color/48/linkedin.png" height="30"/>
+    </a>
+    &nbsp;&nbsp;
+    <a href="mailto:fjoorymog@gmail.com" title="Email">
+      <img src="https://img.icons8.com/color/48/gmail-new.png" height="30"/>
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://tryhackme.com/p/fjoorymog" title="TryHackMe">
+      <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-tryhackme-a-cloud-based-cyber-security-training-platform-logo-color-tal-revivo.png" height="30"/>
+    </a>
+  </p>
+
   <br />
 </div>
 
@@ -15,55 +34,30 @@
 <!-- About Me -->
 <div align="center">
 
-🌱 Cybersecurity student interested in **web security, threat analysis, and defensive security**  
-🎓 Learning about **network security, secure systems, and ethical hacking basics**  
-🛡️ Building small projects to understand how attacks work  
-📚 Always curious, always learning  
+🛡️ Interested in **defensive security & Blue Team**  
+🌐 Works with **networks & systems**  
+💻 Learns through **labs, scripts & CTFs**  
+🔍 Curious and focused on **real-world security skills**
 
 </div>
 
 ---
 
-<!-- Quick Links -->
-<table width="100%" align="center">
-<tr>
-
-<td align="center">
-<a href="https://github.com/your-username">
-<strong>My GitHub Projects</strong>
-<br /><br />
-<img height="80" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/globe.gif" alt="GitHub">
-</a>
-</td>
-
-<td align="center">
-<a href="https://www.linkedin.com/">
-<strong>LinkedIn Profile</strong>
-<br /><br />
-<img height="80" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="LinkedIn">
-</a>
-</td>
-
-</tr>
-</table>
-
----
-
 <!-- Skills -->
 ### 🔐 Cybersecurity Skills (Learning & Practicing)
-- Basics of Network Security  
-- Web Security Concepts (URLs, HTML, SSL/TLS)  
-- Understanding Common Attacks (Phishing, Malware, XSS – concept level)  
-- Security Awareness & Risk Analysis  
-- Python & basic scripting for security tasks  
+- Networking fundamentals and traffic analysis  
+- Linux & Windows system interaction  
+- Python scripting for security tasks  
+- Defensive security concepts and monitoring  
+- Blue Team exposure through labs and challenges  
 
 ---
 
 <!-- Current Focus -->
 ### 🚀 Currently Working On
-- Improving hands-on cybersecurity skills  
-- Small academic & personal security projects  
-- Understanding how browsers, servers, and certificates work  
+- Building strong Blue Team foundations  
+- Practicing hands-on cybersecurity labs  
+- Understanding system and network behavior  
 
 ---
 
@@ -72,10 +66,6 @@
   <br />
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg"
        alt="Thanks for visiting" width="100%" height="120"/>
-
-  <br /><br />
-
-  ![Visitor Count](https://profile-counter.glitch.me/fajralmugri/count.svg)
 
   <br /><br />
   <sub>Made with curiosity & a love for cybersecurity 🔐</sub>
