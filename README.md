@@ -4,7 +4,7 @@
        alt="Welcome" style="max-width: 100%;" />
   <br /><br />
 
-  <h1>Hi, I'm Fajr Almugri 👩‍💻🔐</h1>
+  <h1>Hi, I'm Fajr Almugri | فجر المقري 🔐</h1>
   <h3>Cybersecurity Student | Passionate about Digital Defense</h3>
 
   <br />
